@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "c90d8998618b4358b26bcb4c16703a1c"
+  ], 
   "id": null, 
   "content": "Ikiwa ulijibu A mara nyingi, wewe ni Mtumiaji Mbaya!\r\n\r\nHuku likiwa si jambo baya kujipa raha wakati mwingine, kutenga pesa sasa kunamaanisha unaweza kujifanyia mambo makubwa baadaye. Ikiwa utaona vigumu kutotumia pesa zako, acha mfuko wako wa pesa nyumbani unapoenda nje. Waombe wazazi, walezi au ndugu mkubwa wa kuaminika \u2013 kwa kukusaidia kufungua akaunti ya benki au kwa kukununulia kikasha cha akiba.. Hakikisha kuwa kina kufuli ili uweke pesa zako salama nyumbani. \r\n \r\nIkiwa ulijibu B nyingi, wewe ni Mweka Akiba Mwenye Maarifa\r\n \r\nUna mipango mikubwa na unajua kuwa kutenga pesa sasa kutakusaidia kutimiza ndoto zako baadaye maishani. Umetimiza lengo lako la akiba? Kama kuweka pesa mbali kila wiki kwa miezi mitatu mfululizo bila kutumia? Unaweza kusherehekea kwa raha kidogo! Hii itakupa motisha kuendelea kuweka akiba kwa mambo makubwa, kama elimu yako au kuanzisha biashara. \r\n \r\nIkiwa ulijibu A nusu na B nusu, wewe Bi Katikati.\r\n \r\nUnazawazisha Unaweka akiba, lakini pia unaweza kujipa raha na wakati mwingine unaishia kutumia kwenye vitu ambavyo huenda hukustahili. Fuatilia jinsi unavyotumia pesa zako ili kukusaidia kuweka akiba hata zaidi. Mwanzo wa kila wiki, andika kiasi cha pesa ulicho nacho. Kisha, unapotumia pesa, ongeza kwenye kitabu chako pamoja na kile ulichonunua. Mwisho wa mwezi unaweza kuona pale ambapo pesa zako nyingi huenda \u2013 na pale ambapo unaweza kuweka akiba zaidi.\r\n", 
   "source": "85a5dfb36fd1487eb5f5555664b1dea0", 
