@@ -6,12 +6,12 @@
   "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
   "created_at": "2016-07-11T22:07:59+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-07-22T00:31:34.631182+00:00", 
+  "modified_at": "2016-07-28T23:30:04.733367+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,7 +20,7 @@
   "id": null, 
   "content": "Umemaliza shule na huwezi kuendelea na masomo sasa hivi. Wakati huo unajaribu kutafuta kazi, lakini hupati kazi yoyote.\r\n\r\nUsijali! Kukosa kazi si lazima kumaanishe ukae nyumbani. Wakati unapokuwa unatafuta kazi, hapa kuna mambo machache unayoweza kufanyaili yakusaidie katika siku zako za usoni:\r\n\r\n 1. Jitolee kwenye shirika fulani linalofanya kazi nzuri katika jamii yako. Unapowasaidia wengine kuna kiwango fulani cha kujivunia hujitokeza. Jaribu kuhakikisha kwamba unatenga saa/siku kadhaa kwa wiki ili bado uwe na wakati wa kutafuta kazi ya mshahara. Kujitolea kunaweza kuleta fursa na pia unapata uzoefu unaoweza kuutaja katika wasifu kazi wako.\r\n 2. Fanya bidii! Mazoezi ni njia nzuri ya kuchochea homoni za hali ya kuhisi vizuri mwilini mwako. Jiunge au anzisha darasa la mazoezi ya mwili, timu ya michezo au kikundi cha kukimbia. Anzisha kwa ushirikiano wa wasichana wengine. Ni vizuri kukutana na watu (mmoja wao anaweza kujua mahali palipo na kazi), na hiyo itakuchangamsha.\r\n 3. Kuza, pika. Ukiwa na kipande kidogo cha shamba au hata sanduku la zamani lenye tundu chini unaweza kuanza kupanda bustani ya mboga. Unaweza kujipikia vyakula vizuri na ukaokoa pesa zako. Na ikiwa wewe ni mpishi mzuri sana unaweza kuwapikia chakula watu wenye shughuli nyingi katika mji wako ambao hawana muda wa kupika. Biashara ndogo!\r\n 4. Hudhuria mafunzo. Tafuta mafunzo na kozi za bure au za muda mfupi. Kujifunza mbinu mpya kunaweza kukusaidia kukua. Pia ni njia nzuri ya kukutana na watu, ambalo ni jambo muhimu wakati unatafuta kazi. Watu wengi hupata kazi kupitia watu wanaowajua. Kwa hiyo kadri unavyojua watu wengi wanaojua unatafuta kazi na una ujuzi fulani, ndivyo ulivyo na nafasi nzuri zaidi ya kupata kazi.\r\n 5. Tafuta ushauri. Ongea na mtu anayefanya kazi unayoitaka, ili ujifunze mengi kuhusu kazi hiyo. Je, inawezekana kuwatembelea kazini kwa siku moja na uangalie kile wanachofanya. Huku kunaitwa kutafuta kazi kama mwigo na ni njia nzuri ya kutafuta kazi ikiwa kazi unayoitafuta inakufaa.\r\n\r\n**Kukosa kazi kunaweza kukuvunja moyo, hususani ikiwa una watu wanaokutegemea. Kuwa na mtazamo chanya na usichangamane na watu wenye mtazamo hasi. Wale wanaokuahidi pesa za haraka au njia hatari za kutafutia pesa huenda wanataka kukutumia vibaya. Tumia muda wako kuwa na marafiki na ufanye mambo unayofurahia. Acha kufikiria juu ya kutafuta kazi kidogo, lakini usipoteze muda wako.**\r\n\r\nUsikate tamaa ya kutafuta kazi unayoitamani sana na tunakutakia kila la kheri!\r\n\r\nBonyeza hapa ili upate vidokezo vya kuandika wasifu kazi <insert URL>", 
   "source": "533ff6e91d0d42f9823d53109f9522c2", 
-  "featured": false, 
+  "featured": true, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
