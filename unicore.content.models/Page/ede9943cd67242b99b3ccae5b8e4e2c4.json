@@ -6,12 +6,12 @@
   "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
   "created_at": "2015-12-31T11:45:38+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-05-24T17:41:36.391603+00:00", 
+  "modified_at": "2016-10-07T11:43:27.294394+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 12, 
+  "position": 26, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "hey-you-natural-beauty", 
   "uuid": "ede9943cd67242b99b3ccae5b8e4e2c4"
